@@ -18,7 +18,6 @@
 
 Check out the live version here:  
 **[https://MrPanda0427.github.io/Reestar/](https://MrPanda0427.github.io/Reestar/)**  
-_(Replace `yourusername` with your GitHub username)_
 
 ---
 
