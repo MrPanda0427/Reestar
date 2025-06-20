@@ -23,6 +23,13 @@ Check out the live version here:
 
 ## 📁 Project Structure
 
+Reestar/
+├── index.html
+├── style.css
+├── burger.jpg
+├── casey.jpg
+├── refreshing-lemon.jpg
+└── crispy-spicy-chi.jpg
 
 ---
 
